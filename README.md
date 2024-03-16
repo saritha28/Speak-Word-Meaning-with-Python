@@ -16,6 +16,7 @@ These libraries work together seamlessly to enable the project to speak out the 
 ## Video Demonstration
 
 Check out the video demonstration of the project on YouTube:
+
 [![Speak Word Meanings with Python](https://img.youtube.com/vi/Be8D8QNLb2I/0.jpg)](https://youtu.be/Be8D8QNLb2I)
 
 ## Usage
