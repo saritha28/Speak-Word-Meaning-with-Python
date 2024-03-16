@@ -24,7 +24,7 @@ Check out the video demonstration of the project on YouTube:
 To use this project:
 1. Clone the repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Run the Python script `speak_word_meanings.py`.
+3. Run the Python script `Speak-the-meaning-of-the-word.ipynb`.
 4. Input a word when prompted and listen to its meaning being spoken out loud.
 
 ## Dependencies
